@@ -1,0 +1,26 @@
+<annotation>
+    <folder>Data</folder>
+    <filename>img70.jpg</filename>
+    <path>/content/gdrive/My Drive/Colab_Notebooks/My_projects/Drone_detection/Data/img70.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>drones</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>771</xmin>
+            <ymin>603</ymin>
+            <xmax>109</xmax>
+            <ymax>48</ymax>
+        </bndbox>
+    </object>
+</annotation>

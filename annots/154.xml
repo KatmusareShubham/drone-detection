@@ -1,0 +1,26 @@
+<annotation>
+    <folder>Data</folder>
+    <filename>img154.jpg</filename>
+    <path>/content/gdrive/My Drive/Colab_Notebooks/My_projects/Drone_detection/Data/img154.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>drones</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>934</xmin>
+            <ymin>614</ymin>
+            <xmax>104</xmax>
+            <ymax>39</ymax>
+        </bndbox>
+    </object>
+</annotation>
